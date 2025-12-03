@@ -48,217 +48,181 @@ This is my repository for Advent of Code. I will be completing these challenges 
 ## Problem Statements and Solutions
 -----------------------------------
 
-<a id="day01">
+<a id="day01"></a>
     ### Day 01 
-</a>
 
-<a id="d01p1">
+<a id="d01p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d01p2">
+<a id="d01p2"></a>
     #### Part 2 
-</a>
 
 
 
 
 
-<a id="day02">
+<a id="day02"></a>
     ### Day 02 
-</a>
 
-<a id="d02p1">
+<a id="d02p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d02p2">
+<a id="d02p2"></a>
     #### Part 2 
-</a>
 
 
 
 
 
-<a id="day03">
+<a id="day03"></a>
     ### Day 03 
-</a>
 
-<a id="d03p1">
+<a id="d03p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d03p2">
+<a id="d03p2"></a>
     #### Part 2 
-</a>
 
 
 
 
 
-<a id="day04">
+<a id="day04"></a>
     ### Day 04 
-</a>
 
-<a id="d04p1">
+<a id="d04p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d04p2">
+<a id="d04p2"></a>
     #### Part 2 
-</a>
 
 
 
 
 
-<a id="day05">
+<a id="day05"></a>
     ### Day 05 
-</a>
 
-<a id="d05p1">
+<a id="d05p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d05p2">
+<a id="d05p2"></a>
     #### Part 2 
-</a>
 
 
 
 
 
-<a id="day06">
+<a id="day06"></a>
     ### Day 06 
-</a>
 
-<a id="d06p1">
+<a id="d06p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d06p2">
+<a id="d06p2"></a>
     #### Part 2 
-</a>
 
 
 
 
 
-<a id="day07">
+<a id="day07"></a>
     ### Day 07 
-</a>
 
-<a id="d07p1">
+<a id="d07p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d07p2">
+<a id="d07p2"></a>
     #### Part 2 
-</a>
 
 
 
 
 
-<a id="day08">
+<a id="day08"></a>
     ### Day 08 
-</a>
 
-<a id="d08p1">
+<a id="d08p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d08p2">
+<a id="d08p2"></a>
     #### Part 2 
-</a>
 
 
 
 
 
-<a id="day09">
+<a id="day09"></a>
     ### Day 09 
-</a>
 
-<a id="d09p1">
+<a id="d09p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d09p2">
+<a id="d09p2"></a>
     #### Part 2 
-</a>
 
 
 
 
 
-<a id="day10">
+<a id="day10"></a>
     ### Day 10 
-</a>
 
-<a id="d10p1">
+<a id="d10p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d10p2">
+<a id="d10p2"></a>
     #### Part 2 
-</a>
 
 
 
 
 
-<a id="day11">
+<a id="day11"></a>
     ### Day 11 
-</a>
 
-<a id="d11p1">
+<a id="d11p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d11p2">
+<a id="d11p2"></a>
     #### Part 2 
-</a>
 
 
 
 
 
-<a id="day12">
+<a id="day12"></a>
     ### Day 12 
-</a>
 
-<a id="d12p1">
+<a id="d12p1"></a>
     #### Part 1 
-</a>
     
 
 
-<a id="d12p2">
+<a id="d12p2"></a>
     #### Part 2 
-</a>
 
 
 
